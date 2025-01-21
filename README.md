@@ -51,5 +51,5 @@ a musical-drill or scale (something that isn't a song), *most of the time* you c
 ## Are these tabs free?
 
 YES. All tabs listed here are free to use or modify as you please. These are all created by passionate
-players and listeners who want their favorite music transcribed. 
+players and listeners who transcribed the music with their own ears.
 
