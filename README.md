@@ -8,7 +8,7 @@ I'm creating this repo to serve as a place for people to find guitar tabs writte
 in Ascii form. There are websites like [Songsterr](http://songsterr.com/) that display tabs quite nicely,
 however, I want to use Git and Ascii tabs specifically. 
 
-The song tabs are grouped by artist and I plan to have scales tabs for every scale in every position.
+The song tabs are grouped by artist and I plan to have tabs for every scale in every position.
 
 ## What is a tab? 
 
