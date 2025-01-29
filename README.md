@@ -1,5 +1,5 @@
 # Ascii Guitar Tabs
-Repository to find scale and song tabs, completely free and open source.
+Repository to find scale and song tabs, completely free and open source. <br>
 *Remember: tabs are not perfect. When in doubt, trust your ear.*
 
 ## What can I find here?
