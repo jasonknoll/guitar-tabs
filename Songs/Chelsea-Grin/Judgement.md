@@ -1,5 +1,5 @@
 # Judgement - Chelsea Grin
-**Tuning**: Drop A (AEADGBe)
+**Tuning**: Drop A 7-String (AEADGBe)
 ```
         x7
 e|--------------|------------------|
